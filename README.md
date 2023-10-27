@@ -1,2 +1,2 @@
 # learnJavaScript
-50 Coding Challenge While Learning JavaSciprt
+50 Coding Challenge While Learning JavaScript
